@@ -5,7 +5,7 @@ __pycache__/
 
 # Custom
 
-data/
+data/raw/Platts
 results/
 
 # C extensions
