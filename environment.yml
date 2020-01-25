@@ -15,3 +15,5 @@ dependencies:
   - fbprophet 0.5
   - plotly 4.3
   - statsmodels
+  - seaborn
+
