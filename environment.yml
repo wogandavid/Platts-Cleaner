@@ -16,4 +16,5 @@ dependencies:
   - plotly 4.3
   - statsmodels
   - seaborn
+  - bokeh
 
